@@ -26,11 +26,11 @@
 
 ## Example:
 #### Screenshot 1. The movement example.
-![](img/console_start.jpg)
+![](img/screen_1.jpg)
 
 
 #### Screenshot 2. Final output.
-![](img/console_greeting.jpg)
+![](img/screen_2.jpg)
 
 
 #### Those are the primary features of the app.
